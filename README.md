@@ -1,1 +1,1 @@
-thanks y'all for taking a look on my personal website
+I appreciate you visiting my personal webpage.
