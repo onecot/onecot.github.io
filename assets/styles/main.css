@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@100;200;300;400;500;600;700;800;900&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Serif+Georgian:wght@100;200;300;400;500;600;700;800;900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Serif+Georgian:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
     --title-font: 'Abril Fatface', 'Noto Serif Georgian', sans-serif;
@@ -14,6 +12,11 @@
     vertical-align: center;
     line-height: 100%;
     font-size: 20px;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .title {
