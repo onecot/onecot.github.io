@@ -1,3 +1,1 @@
-## thanks you all for paying a visit on my personal website
-
-<button name="button" onclick="https://onecot.github.io/">Visit here</button>
+thanks y'all for taking a look on my personal website
